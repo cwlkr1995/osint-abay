@@ -3,7 +3,7 @@ import asyncio
 import feedparser
 from aiogram import Bot
 
-TOKEN = os.getenv("BOT_TOKEN")"
+TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = -1003813589198
 
 KEYWORDS = [
